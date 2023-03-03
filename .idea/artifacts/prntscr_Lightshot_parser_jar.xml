@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="prntscr-Lightshot-parser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/prntscr_Lightshot_parser_jar</output-path>
+    <root id="archive" name="prntscr-Lightshot-parser.jar">
+      <element id="module-output" name="prntscr-Lightshot-parser" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.15.4/jsoup-1.15.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
